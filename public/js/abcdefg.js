@@ -1,0 +1,1 @@
+function log(str){window.console = window.console || {}; console.log || (console.log = opera.postError);console.log("希望哪天你能看到这个彩蛋\n");console.log("周小苹，我爱你！！！希望我们能幸福在一起！！\n");console.log("希望事业有成、我的家人身体健康，平平安安！！！\n");console.log(str + "\n");}log("如果你能看到这个彩蛋，说明你是个工程师。");

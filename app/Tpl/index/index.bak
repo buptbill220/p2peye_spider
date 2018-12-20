@@ -1,0 +1,172 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="IE=7.0000" http-equiv="X-UA-Compatible">
+<title>内容导航网址大全</title>
+<meta name="description" content="lovezx.com———常用网址导航第一站">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+<!--<meta name="Robots" content="index,follow,noarchive">-->
+<meta name="googlebot" content="all">
+<meta name="Baiduspider" content="all">
+<meta name="revisit-after" CONTENT="5 days" >
+<meta name="keywords" content="powerful essay,留学生,出国,作业,论文,代写,商科,管理,编程,c++/c/java/matlabpython,foreign students,aboard,homework,ghostwrite,essay write,business,management,programming,report,assignment,essay,dissertation">
+<meta name="description" content="powerful essay is serviced for aboard students, make essay essayer">
+<meta name="author" content="fangming.fm">
+<meta name="build" content="2016-02-04">
+<meta name="copyright" content="copyright @fangming">
+<meta name="reply-to" content="buptbill220@163.com">
+<meta http-equiv="Content-Language" Content="zh-CN,EN">
+<base target="_parent" />
+<style>
+	/*
+BODY {
+	TEXT-ALIGN: center
+}*/
+.tt {
+	BORDER-BOTTOM: #ddd 1px solid;
+	TEXT-ALIGN: left;
+	BORDER-LEFT: #ddd 1px solid;
+	MARGIN: 1px auto auto;
+	WIDTH: 100%;
+	FONT-FAMILY: "微软雅黑";
+	BACKGROUND: #fff;
+	BORDER-TOP: #ddd 1px solid;
+	BORDER-RIGHT: #ddd 1px solid;
+	-webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+            border-radius: 5px;
+	box-shadow: -2px 0 5px #ccc, 0 -2px 5px #ccc, 0 2px 5px #ccc, 2px 0 5px #ccc
+}
+H1 {
+	TEXT-ALIGN: center; LINE-HEIGHT: 56px; MARGIN: 0px; BACKGROUND: #1d75d9; COLOR: #fff; border-radius: 5px 5px 0 0;
+}
+UL.tag {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL.tag LI {
+	BORDER-BOTTOM: #ddd 1px solid; 
+	PADDING-BOTTOM: 0px; 
+	font-size: 16px; 
+	padding-left: 10px;
+	min-LINE-HEIGHT: 30px; 
+	BORDER-TOP: #fff 1px solid; 
+	PADDING-TOP: 2px;
+	display:block;
+	word-break:break-all;
+	white-space:normal;
+}
+ul.tag li a{font-size:12px;text-decoration:none;font-family:Arial,宋体;padding:2px;word-break:break-word;width:50px;}
+
+			
+.clearfix:after {}{       
+    content: ".";
+    display: block; 
+    clear: both;
+    visibility: hidden;
+	line-height: 0;
+    height: 0;
+    font-size:0; 
+}
+
+.clearfix {}{ *zoom:1;}
+
+		
+.main {
+	BORDER-BOTTOM: #ddd 1px solid;
+	BORDER-LEFT: #ddd 1px solid;
+	MARGIN: auto;
+	WIDTH: 100%;
+	COLOR: #666;
+	FONT-SIZE: 12px;
+	BORDER-TOP: #ddd 1px solid;
+	BORDER-RIGHT: #ddd 1px solid;
+	border-radius: 10px;
+	box-shadow: -1px 0 4px #eee, 0 -1px 4px #eee, 0 1px 4px #eee, 1px 0 4px #eee;
+	height: auto;
+}
+.main LI {
+	LINE-HEIGHT: 25px
+}
+@media screen and (max-device-width:1500px){
+	body{width: 50%;margin: 0 25%;}
+}
+@media screen and (max-device-width:1024px){
+	body{width: 60%;margin: 0 20%;}
+}
+@media screen and (max-device-width:640px){
+	body{width: 80;margin: 0 10%;}
+}
+@media screen and (max-device-width:460px){
+	body{width: 100%;}
+}
+</style>
+<script>
+function addFavorite2() {
+    var url = window.location;
+    var title = document.title;
+    var ua = navigator.userAgent.toLowerCase();
+    if (ua.indexOf("360se") > -1) {
+        alert("由于360浏览器功能限制，请尝试按 Ctrl+D 手动收藏！");
+    }
+    else if (ua.indexOf("msie 8") > -1) {
+        window.external.AddToFavoritesBar(url, title); //IE8
+    }
+    else if (document.all) {
+  try{
+   window.external.addFavorite(url, title);
+  }catch(e){
+   alert('您的浏览器不支持,请尝试按 Ctrl+D 手动收藏!');
+  }
+    }
+    else if (window.sidebar) {
+        window.sidebar.addPanel(title, url, "");
+    }
+    else {
+  alert('您的浏览器不支持,请尝试按 Ctrl+D 手动收藏!');
+    }
+}
+</script>
+<meta name="GENERATOR" content="MSHTML 9.00.8112.16592"></head>
+<body>
+<div class="tt">
+<h1>精彩内容导航</h1>
+	<div align="center" style="margin:5px">累计浏览次数：<?php echo $arrpv;?>&nbsp;&nbsp;&nbsp;已收录网址0个
+		<p style="margin:5px;color: #999;font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;当前位置: <?php echo $address;?></p>
+	</div>
+</div>
+<div class="main">
+<ul class="tag">
+  <!--特别推荐-->
+  </li><li style="LINE-HEIGHT: 46px;"><a style="font:18px Arial,宋体;color:#118850">特别推荐</a><div class="clearfix"></div>
+  </li><li>
+    <a href="http://xn--3bs94z.xn--rhqv96g/" target="_blank">拼团.世界</a>
+   <a href="http://xn--ots929czvat1h.xn--rhqv96g/" target="_blank">爱的奉献.世界</a>
+   <a href="http://xn--5su87dvyq.xn--rhqv96g/" target="_blank">特斯拉.世界</a>
+   <a href="http://xn--6qq211a024b6zi.xn--rhqv96g/" target="_blank">宝马迷你.世界</a>
+  <!--名人明星-->
+  </li><li style="LINE-HEIGHT: 46px;"><a style="font:18px Arial,宋体;color:#118850">名人明星</a>
+  </li><li>
+    <a href="http://xn--qbyy7g.xn--rhqv96g/" target="_blank">王石.世界</a>
+   <a href="http://xn--boqx90bpna.xn--rhqv96g/" target="_blank">任志强.世界</a>
+   <a href="http://xn--fiq86fw46b.xn--rhqv96g/" target="_blank">王中军.世界</a>
+   <a href="http://xn--zhtz25b3ig.xn--rhqv96g/" target="_blank">潘石屹.世界</a>
+    <a href="http://xn--v5zo55a.xn--rhqv96g/" target="_blank">贡米.世界</a>
+   <a href="http://xn--swtz1o322b.xn--rhqv96g/" target="_blank">郭广昌.世界</a>
+   <a href="http://xn--xhqv9jhv3e.xn--rhqv96g/" target="_blank">陈东升.世界</a>
+   <a href="http://xn--6kr199ckh9a.xn--rhqv96g/" target="_blank">沈南鹏.世界</a>
+    <a href="http://xn--2hvx64dc1h.xn--rhqv96g/" target="_blank">艾路明.世界</a>
+   <a href="http://xn--ltw2x07b.xn--rhqv96g/" target="_blank">汪潮涌.世界</a>
+    <!--&nbsp;<a href="http://李东升.世界" target="_blank">李东升.世界</a>-->
+    
+  <!--央视主旋律-->
+  </li><li style="LINE-HEIGHT: 46px;"><a style="font:18px Arial,宋体;color:blue;" href="http://dp119.com/sanqian/zhuan" target="_blank">更多&gt;&gt;</a>
+  </li><li>觉得还8错？欢迎——&gt;<a href="http://lovezxp.com:9999/" onclick="javascript:addFavorite2()">加入收藏</a>
+  </li><li>想收录网址？欢迎——&gt;加QQ 524129353
+  </li><li>跳开搜索引擎，摆脱竞价排名，有趣网址
+  </li><li>一切尽在——<a href="http://lovezxp.com:9999/" target="_blank">内容导航</a>
+  </li><li>关注快点评微信公众号"小游戏趣味测试玩不停"，反馈宝贵建议↓↓↓
+  </li><li style="TEXT-ALIGN: center"><img style="width:258px;height:280px;margin-top:0px;border:none;" src="/public/img/qrcode.gif">
+</li></ul></div>
+</body>
+<script src="/public/js/abcdefg.js"></script>
+</html>
